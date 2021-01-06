@@ -85,6 +85,6 @@ SOFTWARE.
 
 ## Author Info
 
-- Website - [Akshau Kale](https://akshaykbkale.com)
+- Website - [Akshay Kale](https://akshaykbkale.com)
 
 [Back To The Top](#library-management-system)
