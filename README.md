@@ -20,12 +20,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+Library Management System was done as part of college project. Datasbase model is deisnged following procedures like Normalization and ER- dailgrams. And to make ease the operations and interactibility for users it is integrated with GUI built using JavaFx.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+-  Language: Java
+-  Database : MySql(open source)
+-  FrameWorks and Libraries : JavaFx, JDBC
 
 [Back To The Top](#read-me-template)
 
@@ -35,21 +36,23 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 #### Installation
 
+- Set up can be done easily if you use Eclipse IDE. Its is easy to get libraries from MarketPlace.
+- Clone the repositry to your local machine and open the cloned repositry in Eclipse.
+- set up JavaFx necessary to render GUI. You can take help of online resource like youtube :[https://www.youtube.com/watch?v=bC4XB6JAaoU]
+- copy the Mysql script in folder and run it in Mysql.
+- Assign databse variable like in dbConnection.java file ex. url,db name, password.
+- run the via eclipse or cmd prompt.
 
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
 
----
+- JavaFx SDK[https://gluonhq.com/products/javafx/]
+- Java JDK [https://www.oracle.com/java/]
+- JDBC Connection[https://docs.oracle.com/javase/tutorial/jdbc/basics/connecting.html]
 
 ## License
 
@@ -81,7 +84,6 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Website - [Akshau Kale](https://akshaykbkale.com)
 
 [Back To The Top](#read-me-template)
