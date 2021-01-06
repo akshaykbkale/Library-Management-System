@@ -1,8 +1,9 @@
-# Library-Management-System
+# Library Management System
 
-![Project Image](project-image-url)
 
-> GUI for Library Mangement System
+![Project Image](https://github.com/akshaykbkale/Library-Management-System/blob/main/Library_model_gui.PNG)
+
+> Library Mangement System
 
 ---
 
@@ -27,7 +28,7 @@ Library Management System was done as part of college project. Datasbase model i
 -  Database : MySql(open source)
 -  FrameWorks and Libraries : JavaFx, JDBC
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#library-management-system)
 
 ---
 
@@ -43,7 +44,7 @@ Library Management System was done as part of college project. Datasbase model i
 - run the via eclipse or cmd prompt.
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#library-management-system)
 
 ---
 
@@ -58,7 +59,7 @@ Library Management System was done as part of college project. Datasbase model i
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2017]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -78,7 +79,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#library-management-system)
 
 ---
 
@@ -86,4 +87,4 @@ SOFTWARE.
 
 - Website - [Akshau Kale](https://akshaykbkale.com)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#library-management-system)
